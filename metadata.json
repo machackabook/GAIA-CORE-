@@ -1,0 +1,6 @@
+{
+  "name": "TerraSphere 3D - Global Geonav & Sensor Grid",
+  "description": "Interactive 3D globe to street-level geospatial explorer with real-time weather, indoor IMDF mapping, Plus Codes, emergency dispatch, trail cams, network inspection, and spatial audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
